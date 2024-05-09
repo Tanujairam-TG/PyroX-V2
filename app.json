@@ -16,7 +16,7 @@
     },
     "SESSION": {
       "description": "Pyrogram String Session",
-      "value": "",
+      "value": "BQBl9toAHCtv2raa4a_N7PkuAfM_cZaSdrIwEInNu5W9b1R-XBzrLG3JhR5hzkEsOK6VgVlkKdz-HoJbqa7lF5-gst_rfU9l_CsDe3x5pvx3wgnjcIVBqfTLPGEfFrJOJ_HgLiS_S1RWqrlPwtc1PuupyMRhJH6vesYxebr1DsPl3RRC1foZPpwAQYC4YrGJbVkPYWZb5GGU6VUxk8-ZndUza1kY3Gu9ibalX2_5NQuPlFPJs7uAIo-YZXFAtugDW8MTM5yG6_eS4uJC-ye1g8lH6iw4ZY4xj31t5bM0A4JAPMNWSvBT6AXvEAVuhPKG2qvIsIeK0ltW2Z1wYt4PGto6KDKo9AAAAABjhrSCAA",
       "required": true
     },
     "TOKEN": {
