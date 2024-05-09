@@ -6,12 +6,12 @@
 "env": {
     "API_ID": {
       "description": "api id get from my.telegram.org/apps",
-      "value": "28122413",
+      "value": "6682330",
       "required": true
     },
     "API_HASH": {
       "description": "api hash get from my.telegram.org/app",
-      "value": "750432c8e1b221f91fd2c93a92710093",
+      "value": "a1c264a07c3d7e1eedc83c746a4a9777",
       "required": true
     },
     "SESSION": {
@@ -21,17 +21,17 @@
     },
     "TOKEN": {
        "description": "create your bot in @botfather",
-       "value": "",
+       "value": "7094551029:AAEdHAyhEZYmI06Hg4DRScjhcSK1R9UlU2c",
        "required": true
     },
     "OWNER_ID": {
        "description": "Add IDs of owners",
-       "value": "5443243540",
+       "value": "1669772418",
        "required": true
     },
     "GROUP_ID": {
        "description": "Add group ID where bot must be admin and userbot must be there.",
-       "value": "-1002119409366",
+       "value": "-4106867240",
        "required": true
     },
     "DB_NAME": {
